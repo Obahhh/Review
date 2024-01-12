@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=MyFirstApplication/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.example.demo.service{InquiryService.java[InquiryService" modifiers="513" timestamp="1699959697090"/>
+    <typeInfo handle="=MyFirstApplication/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.example.demo.dao{InquiryDao.java[InquiryDao" modifiers="513" timestamp="1699880556877"/>
+    <typeInfo handle="=MyFirstApplication/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.example.demo.dao{SurveyDao.java[SurveyDao" modifiers="513" timestamp="1699974475004"/>
+    <typeInfo handle="=MyFirstApplication/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.example.demo.service{SurveySercice.java[SurveySercice" modifiers="513" timestamp="1699970798618"/>
+    <typeInfo handle="=Review/src&lt;service{MemberService.java[MemberService" modifiers="513" timestamp="1704872761779"/>
+</typeInfoHistroy>

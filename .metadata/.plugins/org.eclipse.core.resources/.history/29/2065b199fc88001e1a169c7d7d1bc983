@@ -1,0 +1,12 @@
+arguments=
+auto.sync=true
+build.scans.enabled=true
+connection.gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(C\:\\Users\\46033\\gradle-7.6.2-bin\\gradle-7.6.2))
+eclipse.preferences.version=1
+gradle.user.home=
+java.home=
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=false
+show.executions.view=false

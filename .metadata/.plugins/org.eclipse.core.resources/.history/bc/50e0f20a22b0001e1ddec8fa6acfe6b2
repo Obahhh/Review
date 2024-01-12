@@ -1,0 +1,12 @@
+arguments=
+auto.sync=true
+build.scans.enabled=true
+connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+eclipse.preferences.version=1
+gradle.user.home=C\:/WebBeginnerStarter
+java.home=C\:/Users/46033/Downloads/sts-4.20.1.RELEASE
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=false
+show.executions.view=false

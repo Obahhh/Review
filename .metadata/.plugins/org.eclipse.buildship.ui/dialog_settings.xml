@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="C:\SpringBeginnerEasy-master"/>
+		<item key="build_scans" value="true"/>
+		<item key="auto_sync" value="true"/>
+		<item key="java_home" value="C:\Users\46033\jdk1.8.0_152"/>
+	</section>
+</section>
